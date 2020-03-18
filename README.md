@@ -1,4 +1,4 @@
-# Neo
+# NEO – AI Conversational Agent
 FYP repo
 A conversational expert for chit-chat, having its conversation consistent with its persona.
 
