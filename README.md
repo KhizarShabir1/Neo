@@ -1,4 +1,4 @@
-# NEO – AI Conversational Agent
+# NEO – AI Conversational Agents with personality
 #Model file is to bi to be uploaded on github.(outside the range of github filesize limit)
 A conversational expert for chit-chat, having its conversation consistent with its persona.
 
