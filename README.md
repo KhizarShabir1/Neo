@@ -1,5 +1,5 @@
 # NEO – AI Conversational Agent
-
+#Model file is to bi to be uploaded on github.(outside the range of github filesize limit)
 A conversational expert for chit-chat, having its conversation consistent with its persona.
 
 Absence of consistency in a conversational agent has been a long-standing problem. Conversation consistency is very important if a conversational agent wants to build trust and long-term confidence. Personality in a key differentiator in a conversational agent. We have worked on improving the conversation consistency of the agent according to its persona.
